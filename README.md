@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @reahari.
 
-I like FIFA
+Doing linux and windows things
